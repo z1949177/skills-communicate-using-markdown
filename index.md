@@ -5,3 +5,9 @@
 ```python
 my_string = 'Hello, Github!' #python variable
 ```
+
+- [x] Television
+- [ ] Portable Speakers
+- [x] Air Conditioner
+- [ ] Digital Cameras
+- [ ] Refrigerator
